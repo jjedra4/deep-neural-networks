@@ -1,0 +1,17 @@
+2026-03-28 18:40:42,761:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-28 18:40:42,761:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-28 18:40:42,761:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-28 18:40:42,761:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2026-03-28 18:40:50,746:WARNING:/opt/homebrew/Caskroom/miniforge/base/envs/market-analysis/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'repr' attribute with value False was provided to the `Field()` function, which has no effect in the context it was used. 'repr' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+
+2026-03-28 18:40:50,746:WARNING:/opt/homebrew/Caskroom/miniforge/base/envs/market-analysis/lib/python3.11/site-packages/pydantic/_internal/_generate_schema.py:2249: UnsupportedFieldAttributeWarning: The 'frozen' attribute with value True was provided to the `Field()` function, which has no effect in the context it was used. 'frozen' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+
+2026-03-28 19:04:14,485:WARNING:/var/folders/d9/f2t7hbln2wx_5kftq4n5v7dm0000gn/T/ipykernel_52774/3320279293.py:1: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  df[df.isnull().sum() > 0]
+
